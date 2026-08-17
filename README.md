@@ -92,3 +92,8 @@ MIT License
   <sub>ساخته شده با ❤️ توسط تیم TetraShop</sub>
 </div>
 <!-- Trigger deploy: Mon Aug 17 01:47:56 +0330 2026 -->
+
+## 🌐 دیپلوی
+
+- **URL:** [https://QuantumTeleport.vercel.app](https://QuantumTeleport.vercel.app)
+- **وضعیت:** ✅ فعال
